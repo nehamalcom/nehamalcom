@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @nehamalcom
 - 👀 I’m interested in Deep Learning and more!
-- 🌱 I’m currently learning Database Management using Snowflake and Web Development using Javascript
+- 🌱 I’m currently working with a team to create a data pipeline from MySQL to Snowflake using Python
+- 🖥 I'm trying to learn Web Development using Javascript
 - 💞️ I’m looking to collaborate on Machine Learning in the medical field
 - 📫 Reach me at nehamalcom@gmail.com or @NehaMalcom on Twitter
