@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nehamalcom
-- 👀 I’m interested in Deep Learning and more!
+- 👀 I’m interested in Deep Learning, Operating Systems and more!
 - 🌱 I’m currently an Embedded Software Intern at Texas Instruments
 - 🖥 I'm trying to learn Web Development using Javascript
 - 💞️ I’m looking to collaborate on Machine Learning in the medical field
